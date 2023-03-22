@@ -1,0 +1,31 @@
+/* Style for the main content */
+.content {
+  background-color: #7e92a5;
+  height: 100vh;
+}
+
+/* Style for the card container */
+.card {
+  background-color: #dfd8dd;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+/* Style for the title */
+h1 {
+  color: #343a40;
+}
+
+/* Style for the button */
+.btn-success {
+  background-color: #3279dc;
+  border-color: #ffffff;
+}
+
+/* Style for the active tab button */
+.tab-list button.active {
+  background-color: #78b5ac;
+  color: #000000;
+  /* border-radius: 5px; */
+}
+
+
